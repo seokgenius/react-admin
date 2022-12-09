@@ -1,4 +1,4 @@
-# Dongnepedia Admin
+# React Admin
 
 ## 프로젝트 구성
 - Node : v16.15.0
